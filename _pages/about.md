@@ -20,9 +20,9 @@ As of the end of my sophomore year, my academic standing is **GPA 3.90** (ranked
 
 * **Selected for Tsinghua University’s “Yin Cai Shi Jiao” (Tailored Education) Programs:**
 
-    Spark Program (Xinghuo Plan), 20th cohort – a talent development program for innovation in science and technology.
+      Spark Program (Xinghuo Plan), 20th cohort – a talent development program for innovation in science and technology.
 
-    Lin Feng Program (Lin Feng Plan), 14th cohort – a talent development program for Marxist theory and humanities.
+      Lin Feng Program (Lin Feng Plan), 14th cohort – a talent development program for Marxist theory and humanities.
 
 
 
