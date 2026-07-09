@@ -1,10 +1,5 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Hi, I'm Zijun Zhao"
+author_profile: true
 ---
-
-# Hi, I'm Zijun Zhao 👋
-
-Welcome to my personal website. I'm an undergraduate student at Tsinghua University.
-
-This page is under construction.
