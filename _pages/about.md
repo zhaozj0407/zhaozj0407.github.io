@@ -10,95 +10,30 @@ redirect_from:
 
 ## 🎓 Academic Background
 
-I am currently an undergraduate student in the **Department of Computer Science and Technology** at **Tsinghua University**, a member of the Class of 2023.
+I am currently an undergraduate student in the **Department of Philosophy** at **Tsinghua University**, a member of the Class of 2024.
 
-As of the end of my sophomore year, my academic standing is **GPA 3.90** (ranked **23/171** in the cohort). Notably, **all core Computer Science courses and fundamental Mathematics courses were completed with a 4.0**.
-
-Prior to this, I completed my high school education in Jinan, Shandong Province, where I achieved a score of **704** on the National College Entrance Examination, ranking among the **Top 10** students in the province.
-
-## 👩‍💻 Research Experience
-
-During my undergraduate studies, I have been actively involved in research internships under the guidance of **Prof. Song-Hai Zhang**, **Prof. Xiao-Lin Hu**, and **Prof. Hao Zhao**.
+As of the end of my sophomore year, my academic standing is **GPA 3.90** (ranked **/33** in the cohort). Notably, **all core Chinese Philosophy courses and fundamental Humanistic courses were completed with a 4.0**.
 
 ### Key Achievements
-* **SRT Project (Prof. Zhang):** My individual work on the Student Research Training (SRT) project under Prof. Zhang received the **A+ grade (Highest)**, demonstrating exceptional research output.
-* **Research Grant (Prof. Hu):** During my internship with Prof. Hu, I successfully initiated and secured a **20,000 RMB** grant through the competitive university-level "Xuetui Plan" (Student Research Promotion Program).
+* **SRT Project (Prof. Chen):** My individual work on the Student Research Training (SRT) project under Prof. Chen received the **A+ grade (Highest)**, demonstrating exceptional research output.
+* **Selected for Tsinghua University’s “Yin Cai Shi Jiao” (Tailored Education) Programs:**
+
+    Spark Program (Xinghuo Plan), 20th cohort – a talent development program for innovation in science and technology.
+    Lin Feng Program (Lin Feng Plan), 14th cohort – a talent development program for Marxist theory and humanities.
 
 
 
 ## 🔬 Research Interests
 
-Broadly speaking, my research centers on the **perception, understanding, and generation of visual and auditory modalities**. My ultimate goal is to construct a **highly realistic and interactive audiovisual world**, serving as a foundation to achieve **Spatial Intelligence** capable of robust perception, understanding, and reasoning.
+My research focuses broadly on Chinese philosophy, with a particular interest in Pre-Qin philosophy (especially the thought of Confucius as presented in the Analects) and Neo-Confucianism during the Song and Ming dynasties—most recently, I have been working on the philosophy of Lu Jiuyuan (1139–1193).
 
-Specifically, I focus (or plan to focus) on the following areas:
-
-### 1. 3D Vision
-* **3D Representation Learning:** Considering the current fragmented landscape of 3D representations (e.g., Voxels, NeRF, Gaussian Splatting), I aim to explore and define a **unified 3D representation paradigm**.
-* **3D Scene Generation & Reconstruction:** Generating interactive and Physically Realistic 3D scenes.
-
-### 2. Spatial Audio
-*(For a comprehensive overview of this field, refer to the survey: [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924))*
-
-* **Acoustic Field Reconstruction & Generation:** Inspired by works such as [NeRAF](https://amandinebtto.github.io/NeRAF/) and [AV-DAR](https://humathe.github.io/avdar/), I plan to develop a **feedforward Audio-Visual Gaussian Splatting (AV-GS) framework**, which supports multiple sound sources and generalizes across scenes without requiring per-scene optimization. 
-* **Unified Spatial Audio Generation:** Developing a unified framework capable of generating spatial audio from diverse inputs, including text, egocentric video, 360° video, and audio.
-* **Spatial Audio Perception & Reasoning:** Investigating how **Multimodal LLMs (MLLMs)** perform reasoning using spatial audio, and how Embodied AI frameworks (e.g., **Vision-Language-Action (VLA)** models) utilize spatial audio for decision-making.
-
-### 3. Multimodal Large Language Models (MLLM)
-* **Robustness in Audiovisual Contexts:** Benchmarking and enhancing MLLM robustness under challenging conditions, such as noisy environments, multi-speaker audio, or extremely low-quality visual inputs.
-* **Enhancing Spatial Intelligence:** Improving performance on downstream spatial tasks, including but not limited to:
-    * **Vision-and-Language Navigation (VLN)**
-    * **3D Object Detection & Grounding**
-    * **Spatial Question Answering (Spatial QA)**
-* **MLLM Paradigm Research:** Critically examining current multimodal alignment paradigms (e.g., designing specific discrete tokenizers or continuous encoders for each modality)， I aim to investigate whether this is the path to true multimodal intelligence or merely an expedient, short-sighted solution for simplicity.
+In the long term, my aim is twofold: first, to develop constructive philosophical frameworks that can offer meaningful perspectives on both philosophical and real-world questions; and second, to contribute, through rigorous scholarly engagement, to the ongoing effort of challenging the misconception that “there is no philosophy in China”—so that Chinese philosophy may come to be recognized as an integral and vital part of the global philosophical tradition.
 
 
-## 📚 Publications / Works
 
-<!-- * **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop: Interactive Narrative Scene Construction)** [Project Page](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1p7j0gh0nx7m0gu0sj0x0j306s487904)
-    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.
-    * **Venue:** Chinagraph 2024 **Best Paper Award**; Submitted to Chinese Journal of Computers (CCF-A), 2025.
-    * **Highlights:** Proposed an LLM-based optimization strategy for narrative scene layout. Won the **Best Paper Award** at Chinagraph 2024.
+## 📚 Papers
 
-* **ViewSeeker: Locating Camera via Monocular RGB Image with MaskXY Derivatives**
-    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.
-    * **Venue:** Under Review at IEEE Transactions on Visualization and Computer Graphics (TVCG, CCF-A).
-    * **Highlights:** Designed MaskXY derivatives based on detection/segmentation outputs and proposed a differentiable rendering framework for target view navigation.
+- 《从“成器”到“不器”：朱熹对“君子不器”的修养路径建构》(From “Chengqi” to “Buqi”: Zhu Xi’s Construction of the Cultivation Path for “Junzi Buqi”)
+- 《皮锡瑞的“郑玄学”：基于《经学通论》“三礼”部分和《经学历史》的考察》(Pi Xirui’s “Zheng Xuanxue”: An Investigation Based on the “Three Rites” Section of the *General Theory of Classics* and the *History of Classics*)
 
-* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and Multi-Scale Global-Local Attention** [Project Page](https://cslikai.cn/Dolphin)
-    * **Authors:** Kai Li\*, **Kejun Gao**\*, et al.
-    * **Venue:** Under Review at ICLR 2026 (Scores Before Rebuttal: 6/6/6/4).
-    * **Highlights:** Proposed a lightweight multi-modal speech separation model using a "Semantic-Reconstruction" dual-path visual encoding framework. Surpasses SOTA on all metrics, achieving **>50%** parameter reduction, **>2.4×** lower MACs, and **>6×** faster inference (GitHub 159 stars).
-
-* **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
-    * **Authors:** Junhao Chen\*, **Kejun Gao**\*, et al.
-    * **Venue:** Under Review at CVPR 2026.
-    * **Highlights:** The first generation framework based on the Lottie vector animation format. Outperforms SOTA methods (e.g., OmniSVG) in single SVG generation and surpasses closed-source models (e.g., Sora2, Kling) in vector video generation. -->
-
-## 📝 论文发表 (Publications)
-
-* **Efficient Audio-Visual Speech Separation with Discrete Lip Semantics** 
-    * **Authors:** Kai Li\*, **Kejun Gao\***, et al.  （申请人：共同一作）
-    * **Project Page** https://dolphin-avss.github.io/Dolphin/
-    * **Venue:** 投稿至 ICLR 2026 审稿中 (当前评分: 6/6/6/4，位列所有在投论文约10%，往年会议中稿率约30%)
-    * **Highlights:** 提出了一种基于“语义-重建”双路径视觉编码框架的轻量级多模态语音分离模型。性能指标全面超越 SOTA：参数量减少 **>50%**，计算量 (MACs) 降低 **>2.4×**，推理速度提升 **>6×** (GitHub 159+ stars)。
-
-* **LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**
-    * **Authors:** Junhao Chen\*, **Kejun Gao\***, et al.   （申请人：共同一作）
-    * **Venue:** 投稿至 CVPR 2026 审稿中
-    * **Highlights:** 构建了首个基于 Lottie 矢量动画格式的自回归生成框架。在单帧 SVG 生成任务上优于现有 SOTA 方法 (如 OmniSVG)，在矢量视频生成上超越了现有闭源模型 (如 Sora2, Kling)。
-
-* **ViewSeeker: Locating Camera via Monocular RGB Image**
-    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.   （申请人：二作）
-    * **Venue:** 投稿至 IEEE TVCG (CCF-A类期刊) 审稿中
-    * **Highlights:** 设计了基于检测/分割输出的 MaskXY 导数，并提出了一种用于目标视角导航的可微渲染框架。
-
-* **《叙事工坊：交互式叙事场景构建》 (Narrative Workshop)** 
-    * **Authors:** Hanxi Zhu, **Kejun Gao**, et al.   （申请人：二作）
-    * **Venue:** Chinagraph 2024 **最佳论文奖**；已中稿《计算机学报》（CCF-A类中文期刊）, 中国知网下载量309
-    * **Highlights:** 提出了一种基于大语言模型 (LLM) 的叙事场景布局优化策略。
-
-## 🏆 Awards
-
-* **2024-2025 Academic Year:** Awarded the **"KuanDe" Comprehensive Excellence Scholarship** (宽德综合优秀奖学金).
-* **2023-2024 Academic Year:** Awarded the **"Tsinghua Friend-Huawei" Comprehensive Excellence Scholarship** (清华之友-华为综合优秀奖学金).
 
